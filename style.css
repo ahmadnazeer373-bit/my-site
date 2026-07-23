@@ -200,3 +200,23 @@ footer {
 .contact-box p {
     margin: 15px;
 }
+.tagline {
+    font-size: 18px;
+    color: #ddd;
+    margin-top: 15px;
+    letter-spacing: 1px;
+}
+
+
+.logo {
+    width: 90px;
+    height: 90px;
+    background-color: #00aaff;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 90px;
+    margin: auto;
+    border-radius: 50%;
+    box-shadow: 0 0 20px #00aaff;
+}
